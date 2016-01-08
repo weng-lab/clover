@@ -1,0 +1,16 @@
+2015-08-28  Martin C. Frith <Martin C. Frith>
+
+	* clover.cpp: prevented "-nan" raw scores
+
+2015-06-23  Martin C. Frith <Martin C. Frith>
+
+	* Makefile: added a ChangeLog
+
+2015-06-23  Martin C. Frith <Martin C. Frith>
+
+	* args.cpp, args.hpp, clover.cpp: added -z strand option
+
+2015-06-23  Martin C. Frith <Martin C. Frith>
+
+	* start using version control
+
